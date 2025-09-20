@@ -16,6 +16,19 @@ const StateMgn = () => {
 
 
 
+
+
+
+
+
+   
+
+
+
+
+
+
+
   return (
     <div>
         <h1>I live in {city}</h1>
